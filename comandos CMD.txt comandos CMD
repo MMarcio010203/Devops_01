@@ -1,0 +1,27 @@
+dir - lista pasata e arquivos
+cls - limpa a tela 
+cd - (nome da da pasata) - abrir uma pasta
+cd.. - fecha pasta
+cd\ - fecha todas pastas abertas
+md - (nome da pasta) - cria uma pasta
+
+----------------------------------------------
+git --version - versão do git intalado
+
+clonar-------
+git clone https://github.com/MMarcio010203/Estudando_em_casa.git
+
+( Depois de fazer alteração direto na pasata precisa cria um commiti para finalizar a alteração)
+comoando------
+git add . ----( vai verifica se existe se foi feitp alguma alteração)----
+
+criando um commit e uma etiqueta----
+(-m criar um rotulo, uma label criada no git)
+comanado------
+git commit -m "Alteração feita no pc"
+
+para salvar a alteração----
+comando-----
+git push
+
+
